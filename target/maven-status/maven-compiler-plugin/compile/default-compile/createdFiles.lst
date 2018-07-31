@@ -1,0 +1,7 @@
+com\carlosceron\servlets\Delete.class
+com\carlosceron\model\Usuario.class
+com\carlosceron\support\HibernateUtil.class
+com\carlosceron\servlets\Edit.class
+com\carlosceron\servlets\List.class
+com\carlosceron\servlets\New.class
+com\carlosceron\logic\UsuarioLogic.class
